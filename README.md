@@ -1,7 +1,7 @@
 # Cloth_Shop-System
-Basic system for a cloth shop to manage the order purchase that is being able to remove, add in stock.
+Basic system for a cloth shop to manage the order purchase; that is being able to remove, add order in stock.
 
-The system also provides a facility to sell,exchange and return an order with also a computer generated receipt.
+The system also provides a facility to sell,exchange and return an order with a computer generated receipt.
 
 The receipt is generated using crystal report. Receipt provides the cashier username, Date of purchase, Receipt no.
 
